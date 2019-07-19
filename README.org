@@ -1,0 +1,8 @@
+
+* Serialize test
+
+Just install and point it at a normal pickle file.
+
+#+BEGIN_SRC bash
+  serialize_test file_to_test.pkl
+#+END_SRC
